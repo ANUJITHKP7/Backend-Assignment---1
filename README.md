@@ -1,1 +1,3 @@
-# Backend-Assignment---1
+# Inventory Backend
+
+Simple Express backend.
